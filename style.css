@@ -1,0 +1,22 @@
+h1 {
+  color: blueviolet;
+  text-transform: uppercase;
+}
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  font-weight: 200;
+  color: grey;
+}
+h3 {
+  font-family: cursive;
+  color: red;
+}
+.main-banner {
+  background-image: url("https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MLA22LL?wid=4000&hei=1800&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1496944005839");
+}
+.caption {
+  opacity: 0.5;
+  background-color: honeydew;
+  color: black;
+}
